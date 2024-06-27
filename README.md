@@ -59,7 +59,7 @@ In processing text data from user posts on the social network Facebook, we often
 In the User Clustering section, we used the K-means method to group users based on posts on the social network Facebook. In this way, we created groups of users with similar characteristics and interests. Next, we analyzed the posts of users in the same cluster to identify the main topics that each user group is interested in using [LDA](https://www.geeksforgeeks.org/topic-modeling-using-latent-dirichlet-allocation-lda/) topic modeling, a non-invasive machine learning technique. Supervision helps analyze and identify themes in text data. In this way, we can better understand the content and preferences of each user group, thereby adjusting our engagement strategy and providing content more appropriately and effectively, based on specific characteristics. entity of each user group.
 
 ### Source code
-[Click here](https://github.com/DooPhiLong/Users-clustering-and-Topic-modelling/blob/main/User%20clustering.ipynb)
+[Click here](https://github.com/leevanhoc/User-Clustering-And-Topic-Modeling/blob/main/User%20clustering.ipynb)
 
 ## 📌 Product recommendation application
 
