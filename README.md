@@ -1,6 +1,6 @@
 # 👪 Users clustering and Topic modelling
 
-![image](https://github.com/DooPhiLong/Users-clustering-and-Topic-modelling/assets/120476961/ebd426c9-4e0b-4ef4-bcdc-7ed210516f5c)
+![image](https://github.com/leevanhoc/User-Clustering-And-Topic-Modeling/blob/main/Picture/pic1.png)
 
 
 ## 💼 Case study 
